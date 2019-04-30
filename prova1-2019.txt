@@ -12,7 +12,7 @@ certifique que existe apenas uma pasta com esse nome) e cole nas questões todos
 as linhas 100 a 110 do arquivo log/access.log
 Resposta (Cole aqui o(s) comandos utilizados): 
 
-
+cat access.log head -n 100 tail 110
 
 2 - Renomear o arquivo prova1-2019.txt da sua pasta para prova1-seunome.txt 
 (dica de segurnaça: se o arquivo estiver aberto, para garantir que o arquivo não será corrompido, salve e feche-o antes de inciar o comando)

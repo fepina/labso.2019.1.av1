@@ -1,0 +1,15 @@
+backup-fernanda
+fernanda14
+fernanda1.txt
+fernanda2.txt
+fernanda3.txt
+final.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-2019.txt
+prova1-Fernanda.txt
+README.md
+ultimocomando.txt
